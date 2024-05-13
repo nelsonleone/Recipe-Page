@@ -1,0 +1,57 @@
+:root{
+	--primary-nutmeg: hsl(14, 45%, 36%);
+	--dark-raspberry: hsl(332, 51%, 32%);
+
+	--neu-white:  hsl(0, 0%, 100%);
+	--neu-rose-white: hsl(330, 100%, 98%);
+	--neu-eggshell:  hsl(30, 54%, 90%);
+	--neu-light-grey: hsl(30, 18%, 87%);
+	--neu-wenge-brown: hsl(30, 10%, 34%);
+	--neu-dark-charcoal: hsl(24, 5%, 18%);
+}
+
+*,*::after,*::before{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Outfit", sans-serif;
+	background-color: var(--neu-white);
+	color: var(--neu-wenge-brown);
+}
+
+h1,
+h2{
+	font-family: "Young Serif", serif;
+	color: var(--primary-nutmeg)
+}
+
+a {
+	text-decoration: none;
+}
+
+button{
+	border: none;
+	background: transparent;
+	cursor: pointer;
+}
+
+strong{
+	font-weight: 600;
+}
+
+img{
+	max-width: 100%;
+	object-fit: cover;
+}
+
+
+
+@media (min-width: 40em){
+	body{
+		background-color: var(--neu-eggshell);
+		scroll-behavior: smooth;
+	}
+}
