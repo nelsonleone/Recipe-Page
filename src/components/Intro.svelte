@@ -39,6 +39,7 @@
         font-size: 2rem;
         line-height: 35px;
         color: var(--neu-dark-charcoal);
+        font-weight: 500;
     }
 
     .preparation {
