@@ -5,7 +5,7 @@
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://recipe-page-nelsonleone.netlify.app/)
+- Live Site URL: [https://recipe-page-nelsonleone.netlify.app/](https://recipe-page-nelsonleone.netlify.app/)
 
 ## My process
 
