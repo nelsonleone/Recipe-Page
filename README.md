@@ -1,11 +1,11 @@
 ## Overview
 
 ### Screenshot
+![image](https://github.com/nelsonleone/Recipe-Page/assets/95982650/cd227d5e-40e9-4f37-a032-a2e7fe49f0ab)
+
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://recipe-page-nelsonleone.netlify.app/)
 
 ## My process
 
@@ -13,11 +13,4 @@
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-### What I learned
+- Svelte
